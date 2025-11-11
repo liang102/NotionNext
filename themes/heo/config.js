@@ -61,7 +61,7 @@ const CONFIG = {
     {
       title_1: 'AfterEffect',
       //img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
-      img_1: '/images/heo/IMG_9110.webp',
+      img_1: '/images/heo/xiantiao/IMG_9110.webp',
       color_1: '#989bf8',
       title_2: 'Sketch',
       img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
